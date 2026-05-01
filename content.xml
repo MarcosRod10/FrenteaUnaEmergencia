@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260430133409MO4KTZ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260430133409JWPEZ4</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>CONCRECCIÓN CURRICULAR de la SdA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Marcos Rodríguez González</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777548845026</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moleoqtp-gi2kmibur</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Título. Descripción de la Sda</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de la Sda</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de la Sda</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moleoqtp-gi2kmibur</odePageId>
+      <odeBlockId>block-1777454435452-1y4x70p4t</odeBlockId>
+      <blockName>FRENTE A UNA EMERGENCIA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moleoqtp-gi2kmibur</odePageId>
+          <odeBlockId>block-1777454435452-1y4x70p4t</odeBlockId>
+          <odeIdeviceId>idevice-1777454435449-rwe9330zg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>- La situación de aprendizaje (Sda) va dirigida al curso de 3º ESO para la materia de Educación Física.</p>
+<p>- Se llevará a cabo en el gimnasio del centro de manera teórico-práctica, donde se alternarán explicaciones del docente con aplicaciones prácticas del alumnado. En estas últimas, el alumnado se dividirá y agrupará en tríos y en una pareja para ir experimentando las diferentes técnicas de primeros auxilios que se trabajen.</p>
+<p>- La Sda tendrá una duración de 5 sesiones y conllevará 3 semanas del tercer trimestre.</p>
+<p>- El alumnado tendrá que elaborar dos actividades de evaluación. La primera de ellas consiste en un video tutorial de una técnica específica de primeros auxilios, mientras que la segunda consistirá en desarrollar una infografía que detalle la explicación de una de esas técnicas.</p>
+<p>- El desarrollo de la Sda se llevará a cabo a través de Classroom donde se colgará la información relevante sobre la teoría y las actividades que se llevarán a cabo, así como las herramientas y los recursos necesarios para adquirir las competencias.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777454435449-rwe9330zg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>- La situación de aprendizaje (Sda) va dirigida al curso de 3º ESO para la materia de Educación Física.</p>\n<p>- Se llevará a cabo en el gimnasio del centro de manera teórico-práctica, donde se alternarán explicaciones del docente con aplicaciones prácticas del alumnado. En estas últimas, el alumnado se dividirá y agrupará en tríos y en una pareja para ir experimentando las diferentes técnicas de primeros auxilios que se trabajen.</p>\n<p>- La Sda tendrá una duración de 5 sesiones y conllevará 3 semanas del tercer trimestre.</p>\n<p>- El alumnado tendrá que elaborar dos actividades de evaluación. La primera de ellas consiste en un video tutorial de una técnica específica de primeros auxilios, mientras que la segunda consistirá en desarrollar una infografía que detalle la explicación de una de esas técnicas.</p>\n<p>- El desarrollo de la Sda se llevará a cabo a través de Classroom donde se colgará la información relevante sobre la teoría y las actividades que se llevarán a cabo, así como las herramientas y los recursos necesarios para adquirir las competencias.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moleoqtr-hvj77kk3z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moleoqtr-hvj77kk3z</odePageId>
+      <odeBlockId>block-1777455994068-zucc4c81n</odeBlockId>
+      <blockName>1. Intención educativa.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moleoqtr-hvj77kk3z</odePageId>
+          <odeBlockId>block-1777455994068-zucc4c81n</odeBlockId>
+          <odeIdeviceId>idevice-1777455994066-3v51ozi2i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Sda está pensada por dotar al alumnado de competencias básicas para actuar ante situaciones de emergencia de forma segura, responsable y eficaz. Por desgracia, los accidentes escolares, domésticos y/o en espacios públicos continúan sucediendo y ocasionan una de las principales causas de lesiones tanto en jóvenes como en adultos. Es por ello que resulta esencial que el alumnado adquiera habilidades que les permitan reconocer, responder y solicitar ayuda de manera efectiva en situaciones de emergencia.</p>
+<p>La Sda se vincula con dos ODS. El 3, Salud y bienestar, contribuyendo a crear espacios escolares más saludables y preparados, dando a conocer prácticas que reducen la mortalidad por accidentes y la capacidad de intervenir en emergencias, y el 4, Educación de calidad, desarrollando competencias para la vida real y fomentando aprendizajes útiles más allá del aula.  </p>
+<p>En cuanto a los retos del siglo XXI, esta Sda responde al aumento de riesgos y emergencias, preparando al estudiantado para actuar en incendios, accidentes viales, golpes de calor o situaciones derivadas de fenómenos climáticos extremos. Trabaja la fragilidad emocional y el estrés, enseña a mantener la calma, priorizar acciones y gestionar emociones ante situaciones de crisis y pone énfasis en la necesidad de crear ciudadanas y ciudadanos autónomos y solidarios, formando jóvenes capaces de ayudarse y de contribuir a una sociedad más segura y comprometida.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777455994066-3v51ozi2i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Sda está pensada por dotar al alumnado de competencias básicas para actuar ante situaciones de emergencia de forma segura, responsable y eficaz. Por desgracia, los accidentes escolares, domésticos y/o en espacios públicos continúan sucediendo y ocasionan una de las principales causas de lesiones tanto en jóvenes como en adultos. Es por ello que resulta esencial que el alumnado adquiera habilidades que les permitan reconocer, responder y solicitar ayuda de manera efectiva en situaciones de emergencia.</p>\n<p>La Sda se vincula con dos ODS. El 3, Salud y bienestar, contribuyendo a crear espacios escolares más saludables y preparados, dando a conocer prácticas que reducen la mortalidad por accidentes y la capacidad de intervenir en emergencias, y el 4, Educación de calidad, desarrollando competencias para la vida real y fomentando aprendizajes útiles más allá del aula.  </p>\n<p>En cuanto a los retos del siglo XXI, esta Sda responde al aumento de riesgos y emergencias, preparando al estudiantado para actuar en incendios, accidentes viales, golpes de calor o situaciones derivadas de fenómenos climáticos extremos. Trabaja la fragilidad emocional y el estrés, enseña a mantener la calma, priorizar acciones y gestionar emociones ante situaciones de crisis y pone énfasis en la necesidad de crear ciudadanas y ciudadanos autónomos y solidarios, formando jóvenes capaces de ayudarse y de contribuir a una sociedad más segura y comprometida.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moleoqts-0x7h5702g</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moleoqts-0x7h5702g</odePageId>
+      <odeBlockId>block-1777456957214-laels3zwy</odeBlockId>
+      <blockName>2. Elementos curriculares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moleoqts-0x7h5702g</odePageId>
+          <odeBlockId>block-1777456957214-laels3zwy</odeBlockId>
+          <odeIdeviceId>idevice-1777456957211-n62zon62j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Competencias específicas:</strong></p>
+<p>1. Adoptar un estilo de vida activo y saludable, seleccionando e incorporando intencionalmente actividades físicas y deportivas en las rutinas diarias a partir de un análisis crítico de los modelos corporales y del rechazo de las prácticas que carezcan de base científica, para hacer un uso saludable y autónomo del tiempo libre y así mejorar la calidad de vida.</p>
+<p><strong>Criterios de Evaluación:</strong></p>
+<p>1.4. Actuar de acuerdo a los protocolos de intervención ante situaciones de emergencia o accidentes aplicando medidas específicas de primeros auxilios.</p>
+<p><strong>Competencias clave (descriptores operativos/perfil de salida):</strong></p>
+<p>Competencia clave STEM y descriptores operativos STEM 2 y STEM 5</p>
+<p><strong>Saberes básicos:</strong></p>
+<p>Bloque B. Organización y gestión de la actividad física.</p>
+<p>- Actuaciones críticas ante accidentes (Representación de situaciones aplicando medidas específicas). Reanimación mediante desfibrilador automático (DEA) o semiautomático (DESA), RCP (reanimación cardiopulmonar), técnicas específicas e indicios de accidentes cardiovasculares (maniobra de Heimlich, señales de ictus y similares).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777456957211-n62zon62j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Competencias específicas:</strong></p>\n<p>1. Adoptar un estilo de vida activo y saludable, seleccionando e incorporando intencionalmente actividades físicas y deportivas en las rutinas diarias a partir de un análisis crítico de los modelos corporales y del rechazo de las prácticas que carezcan de base científica, para hacer un uso saludable y autónomo del tiempo libre y así mejorar la calidad de vida.</p>\n<p><strong>Criterios de Evaluación:</strong></p>\n<p>1.4. Actuar de acuerdo a los protocolos de intervención ante situaciones de emergencia o accidentes aplicando medidas específicas de primeros auxilios.</p>\n<p><strong>Competencias clave (descriptores operativos/perfil de salida):</strong></p>\n<p>Competencia clave STEM y descriptores operativos STEM 2 y STEM 5</p>\n<p><strong>Saberes básicos:</strong></p>\n<p>Bloque B. Organización y gestión de la actividad física.</p>\n<p>- Actuaciones críticas ante accidentes (Representación de situaciones aplicando medidas específicas). Reanimación mediante desfibrilador automático (DEA) o semiautomático (DESA), RCP (reanimación cardiopulmonar), técnicas específicas e indicios de accidentes cardiovasculares (maniobra de Heimlich, señales de ictus y similares).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moleoqts-29992xk3i</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moleoqts-29992xk3i</odePageId>
+      <odeBlockId>block-1777457052369-ofcpdfd4m</odeBlockId>
+      <blockName>3. Metodologías activas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moleoqts-29992xk3i</odePageId>
+          <odeBlockId>block-1777457052369-ofcpdfd4m</odeBlockId>
+          <odeIdeviceId>idevice-1777457052367-1gair1ocr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se van a utilizar diferentes metodologías. Por un lado se llevará a cabo el uso de la clase invertida o flipped classroom ya que el alumnado tendrá disponible material previo que deben revisar en la plataforma Classroom.</p>
+<p>Por otro lado, en las sesiones teórico-prácticas se van a utilizar tanto estilos tradicionales como el mando directo y la asignación de tareas cuando estemos en la parte más teórica, como estilos relacionados con el descubrimiento como son la resolución de problemas y el descubrimiento guiado cuando el alumnado tenga que resolver problemas que se le presentan.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777457052367-1gair1ocr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se van a utilizar diferentes metodologías. Por un lado se llevará a cabo el uso de la clase invertida o flipped classroom ya que el alumnado tendrá disponible material previo que deben revisar en la plataforma Classroom.</p>\n<p>Por otro lado, en las sesiones teórico-prácticas se van a utilizar tanto estilos tradicionales como el mando directo y la asignación de tareas cuando estemos en la parte más teórica, como estilos relacionados con el descubrimiento como son la resolución de problemas y el descubrimiento guiado cuando el alumnado tenga que resolver problemas que se le presentan.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moleoqtt-zkn05mkb3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moleoqtt-zkn05mkb3</odePageId>
+      <odeBlockId>block-1777457415017-av1eumn3l</odeBlockId>
+      <blockName>4. Vinculación con los proyectos y programas del centro</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moleoqtt-zkn05mkb3</odePageId>
+          <odeBlockId>block-1777457415017-av1eumn3l</odeBlockId>
+          <odeIdeviceId>idevice-1777457415014-j0ptp63h7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Todas y cada una de mis Sda tienen relación con el Plan de Lectura e Investigación, PLEI.</p>
+<p>En este caso, van a leer una pequeña noticia sobre un accidente que tuvo lugar durante un partido de fútbol y las diferentes acciones que realizaron las personas que estaban allí presentes. Deberán reflexionar sobre lo que hicieron de forma correcta e incorrecta y dar la explicación de los pasos que hubieran seguido ellos para ayudar a la víctima.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777457415014-j0ptp63h7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Todas y cada una de mis Sda tienen relación con el Plan de Lectura e Investigación, PLEI.</p>\n<p>En este caso, van a leer una pequeña noticia sobre un accidente que tuvo lugar durante un partido de fútbol y las diferentes acciones que realizaron las personas que estaban allí presentes. Deberán reflexionar sobre lo que hicieron de forma correcta e incorrecta y dar la explicación de los pasos que hubieran seguido ellos para ayudar a la víctima.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moleoqtt-j0fx5k5gu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moleoqtt-j0fx5k5gu</odePageId>
+      <odeBlockId>block-1777457538473-4hwk5sc96</odeBlockId>
+      <blockName>5. Actividades complementarias y extraescolares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moleoqtt-j0fx5k5gu</odePageId>
+          <odeBlockId>block-1777457538473-4hwk5sc96</odeBlockId>
+          <odeIdeviceId>idevice-1777457538471-bgy3icndi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La Sda lleva asociada una actividad complementaria que tiene lugar a finales del tercer trimestre.</p>
+<p>Personal de Cruz Roja se desplaza hasta el centro y organiza diferentes tipos de estaciones por los que el alumnado va pasando y poniendo en práctica lo trabajado así como aprendiendo nuevas habilidades. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777457538471-bgy3icndi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La Sda lleva asociada una actividad complementaria que tiene lugar a finales del tercer trimestre.</p>\n<p>Personal de Cruz Roja se desplaza hasta el centro y organiza diferentes tipos de estaciones por los que el alumnado va pasando y poniendo en práctica lo trabajado así como aprendiendo nuevas habilidades. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moleoqtu-5jvyieu5h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Atribución y fichero descargable.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moleoqtu-5jvyieu5h</odePageId>
+      <odeBlockId>block-1777457734623-v5kgzxfmy</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moleoqtu-5jvyieu5h</odePageId>
+          <odeBlockId>block-1777457734623-v5kgzxfmy</odeBlockId>
+          <odeIdeviceId>idevice-1777457734621-cxj28zdjn</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">CONCRECCIÓN CURRICULAR de la SdA</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Marcos Rodríguez González</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
